@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 **h2声明：**<br/>
  此源码是菜鸟窝企业项目课程[《菜鸟商城》](http://www.cniao5.com/clazz/view/10073.html)的源码
@@ -31,3 +32,6 @@
 <img src="https://github.com/yxs666/cniao5-shop/blob/master/screenshot/10.login.png" width="460" height="768"/>
 <img src="https://github.com/yxs666/cniao5-shop/blob/master/screenshot/16.addr_list.png" width="460" height="768"/>
 <img src="https://github.com/yxs666/cniao5-shop/blob/master/screenshot/17.addr_add.png" width="460" height="768"/>
+=======
+# cniao5-shop
+>>>>>>> 87f78107dfe951cd3f4bd40589cac433f6ae045f
